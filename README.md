@@ -19,4 +19,4 @@ Features:
  -It's mostly analog!
 
 Notes on building:
-If you want a longer attack and decay, swap the capacitor on C5 to 100uF (16V or larger)! Experiment! Have Fun!
+If you want a longer attack and decay, swap the capacitor on C5 from 4.7uF to 10uF (16V or larger)! Experiment! Have Fun!
